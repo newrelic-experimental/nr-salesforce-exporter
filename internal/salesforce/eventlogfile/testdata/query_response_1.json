@@ -1,0 +1,72 @@
+{
+    "totalSize": 67,
+    "done": false,
+    "nextRecordsUrl": "https://localdomain.test/more_records",
+    "records": [
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr3GAC"
+            },
+            "Id": "0AT6t000004Ndr3GAC",
+            "EventType": "ApexExecution",
+            "CreatedDate": "2023-07-10T14:41:25.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr3GAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr4GAC"
+            },
+            "Id": "0AT6t000004Ndr4GAC",
+            "EventType": "ApexTrigger",
+            "CreatedDate": "2023-07-10T14:41:25.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr4GAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr5GAC"
+            },
+            "Id": "0AT6t000004Ndr5GAC",
+            "EventType": "API",
+            "CreatedDate": "2023-07-10T14:41:25.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004Ndr5GAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdraGAC"
+            },
+            "Id": "0AT6t000004NdraGAC",
+            "EventType": "ApiTotalUsage",
+            "CreatedDate": "2023-07-10T14:41:25.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdraGAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrbGAC"
+            },
+            "Id": "0AT6t000004NdrbGAC",
+            "EventType": "AuraRequest",
+            "CreatedDate": "2023-07-10T14:41:25.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrbGAC/LogFile",
+            "Sequence": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "totalSize": 3,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrcGAC"
+            },
+            "Id": "0AT6t000004NdrcGAC",
+            "EventType": "BulkApi2",
+            "CreatedDate": "2023-07-10T14:41:26.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrcGAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrdGAC"
+            },
+            "Id": "0AT6t000004NdrdGAC",
+            "EventType": "FlowExecution",
+            "CreatedDate": "2023-07-10T14:41:26.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrdGAC/LogFile",
+            "Sequence": 1
+        },
+        {
+            "attributes": {
+                "type": "EventLogFile",
+                "url": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrfGAC"
+            },
+            "Id": "0AT6t000004NdrfGAC",
+            "EventType": "LightningPageView",
+            "CreatedDate": "2023-07-10T14:41:26.000+0000",
+            "LogDate": "2023-07-10T13:00:00.000+0000",
+            "Interval": "Hourly",
+            "LogFile": "/services/data/v58.0/sobjects/EventLogFile/0AT6t000004NdrfGAC/LogFile",
+            "Sequence": 1
+        }
+    ]
+}
